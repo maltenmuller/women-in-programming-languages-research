@@ -12,6 +12,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 ## Faculty and Research Scientists (at Universities or Research Institutions)
 * [Sara Achour](https://people.csail.mit.edu/sachour/), Stanford, USA
 * [Amal Ahmed](http://www.ccs.neu.edu/home/amal/), Northeastern University, USA
+* [Debasmita Lohar](https://dlohar.github.io/), IT University of Copenhagen, Denmark
 * [Nada Amin](https://namin.seas.harvard.edu), Harvard University, USA
 * [Zena M. Ariola](http://ix.cs.uoregon.edu/~ariola/), University of Oregon, USA
 * [Anya Helene Bagge](http://www.ii.uib.no/~anya/), University of Bergen, Norway
@@ -121,7 +122,6 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Malavika Samak](https://sites.google.com/site/malavikasamak/home), MIT, USA
 * [Kristina Sojakova](http://www.cs.cmu.edu/~ksojakov/), Cornell University, USA
 * [Hira Taqdees Syeda](https://ts.data61.csiro.au/people/?cn=Hira+Taqdees+Syeda), Data61 CSIRO and UNSW Sydney, Australia
-* [Debasmita Lohar](https://dlohar.github.io/), Karlsruhe Institute of Technology, Germany
 
 ## PhD Students
 * [Leif Andersen](https://leifandersen.net), Northeastern University, USA
